@@ -10,7 +10,7 @@
   <title>ROKOKBET : AGEN SITUS TOTO 4D DIJAMIN JACKPOT SETIAP HARI</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/GhTgTF7b/rokokbet-icon.png" />
-  <link rel="amphtml" href="https://richpeople.xyz/zero/" />
+  <link rel="amphtml" href="ultramanzero.xyz/toto_4d" />
   <link rel="canonical" href="https://colombiafestiva.com/" />
   <meta property="og:site_name" content="ROKOKBET" />
   <meta property="og:title"
@@ -1059,8 +1059,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://richpeople.xyz/zero/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://richpeople.xyz/zero/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="ultramanzero.xyz/toto_4d" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="ultramanzero.xyz/toto_4d" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
